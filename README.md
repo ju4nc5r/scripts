@@ -4,7 +4,8 @@ Luego de buscar diferentes soluciones que me permitan ajustar el brillo de mi mo
 
 Solo basta con ejecutarlo desde una ubicación de su equipo y verá algo como esto: 
 
-![Captura desde 2024-03-22 22-09-51](https://github.com/ju4nc5r/scripts/assets/31509271/bab42ea3-722b-4585-8c04-ff78228dcfde)
+![Captura desde 2024-03-22 22-09-51](https://github.com/ju4nc5r/scripts/assets/31509271/ea2396bf-305d-4c48-b808-c59bf32b670d)
+
 
 Luego de seleccionar alguna de las opciones, devolverá los valores que se establecieron de brillo y contraste. Es por eso, que en caso de preferir configurarlo manualmente, deberá ingresar un valor para el brillo y otro para el contraste. En donde puede ir probando distintas configuraciones hasta obtener la deseada. 
 
