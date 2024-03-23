@@ -8,7 +8,7 @@ Solo basta con ejecutarlo desde una ubicación de su equipo y verá algo como es
 
 Luego de seleccionar alguna de las opciones, devolverá los valores que se establecieron de brillo y contraste. Es por eso, que en caso de preferir configurarlo manualmente, deberá ingresar un valor para el brillo y otro para el contraste. En donde puede ir probando distintas configuraciones hasta obtener la deseada. 
 
-![Captura desde 2024-03-22 22-14-25](https://github.com/ju4nc5r/scripts/assets/31509271/5907cfc1-d689-425f-a825-99a13fa45113)
+![Captura desde 2024-03-22 22-14-25](https://github.com/ju4nc5r/scripts/assets/31509271/1f3181d3-b2f9-4728-9666-630e3612e402)
 
 
 Tambien es posible matchear la ubicación donde guardemos este script, a una palabra reservada definida a nuestra preferencia. En este caso, utilice la palabra "ajustebrillo" como palabra reservada para que ejecute el script que esta definido abajo. Esto se puede hacer agregando las siguientes lineas al archivo **.bashrc**
