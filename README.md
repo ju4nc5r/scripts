@@ -1,4 +1,4 @@
-# Ajuste sencillo de brillo en Linux para monitores que se basen en el estandar DDC/CI 
+# Ajuste de brillo en Linux para monitores que se basen en el estandar DDC/CI 
 
 Luego de buscar diferentes soluciones que me permitan ajustar el brillo de mi monitor para escritorio en Linux y no encontrar ninguna que me funcione. Pude darme cuenta que habia un problema entre el modelo del monitor y los controladores de brillo que utilizan las aplicaciones para este fin. Como solución he construido este basico script bash, que permite ajustar el brillo a partir de su ejecución y posterior seleccion de valores. Esto es logrado utilizando **ddcutil**. 
 
