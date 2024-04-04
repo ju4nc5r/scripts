@@ -15,13 +15,15 @@ Luego de seleccionar alguna de las opciones, devolverá los valores que se estab
 Tambien es posible matchear la ubicación donde guardemos este script, a una palabra reservada definida a nuestra preferencia. En este caso, utilice la palabra "ajustebrillo" como palabra reservada para que ejecute el script que esta definido abajo. Esto se puede hacer agregando las siguientes lineas al archivo **.bashrc**
 
 ````console
-function ejecutar_script {
-    if [ "$1" = "ajustebrillo" ]; then
-        /ruta/a/tu/script.sh
+#Ajuste de brillo
+function scripts {
+    if [ "$1" = "ajustar_brillo" ]; then
+        $HOME/ajustebrillo.sh
     else
         echo "Comando no reconocido"
     fi
 }
+
 ````
 
-Esto es una solución para salir del apuro en caso de que no funcione otra alternativa conocida, en mi caso logro funcionarme y la utilizo en actualmente.
+Esto es una solución para salir del apuro en caso de que no funcione otra alternativa conocida, en mi caso logro funcionarme y la utilizo actualmente.
